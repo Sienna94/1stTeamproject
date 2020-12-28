@@ -10,8 +10,7 @@
 5. 사용 기술 & 라이브러리 : JSP / JSTL / JQuery / mybatis / Oracle11g / ApacheTomcat 9.0 / Kakao 우편번호 서비스 / KakaoPay / GitHub
 6. 시연영상
 
-<iframe class="youtube" src="https://drive.google.com/file/d/1l-zfkPeNZVNyInn2DTR2c-M2eg4hwTEK/view?usp=sharing"  
- frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>  
+<iframe width="640" height="360" src="https://www.youtube.com/embed/6Az2cNU7gUw" frameborder="0" gesture="media" allowfullscreen=""></iframe>
 
 7. exerd
 8.

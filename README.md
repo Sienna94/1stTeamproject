@@ -1,2 +1,3 @@
-# 1stTeamproject
-첫번째 팀프로젝트
+# Oopshoes
+신발 쇼핑몰 Project
+
